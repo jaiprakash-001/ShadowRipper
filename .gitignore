@@ -1,0 +1,28 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Mac system files
+.DS_Store
+
+# VS Code settings (if you're using VS Code)
+.vscode/
+
+# Logs or temporary files
+*.log
+*.tmp
+
+# OS-specific hidden files
+Thumbs.db
+ehthumbs.db
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
